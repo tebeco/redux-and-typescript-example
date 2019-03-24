@@ -1,3 +1,6 @@
+# ORIGIINAL CODE COMES FROM https://redux.js.org/recipes/usage-with-typescript and https://codesandbox.io/s/w02m7jm3q7
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
